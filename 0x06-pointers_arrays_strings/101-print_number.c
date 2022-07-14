@@ -2,6 +2,7 @@
 
 /**
  * print_number - prints an integer;
+ * @author: muhabeid
  * @n: integer to be printed;
  */
 void print_number(int n)
@@ -12,7 +13,8 @@ void print_number(int n)
 	{
 		n1 = -n;
 		putchar('-');
-	} else
+	}
+	else
 	{
 		n1 = n;
 	}
