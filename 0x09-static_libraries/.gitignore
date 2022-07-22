@@ -1,5 +1,4 @@
 quote 
-main.c
-_putchar.c
-_putchar.o
+*.c
+*.o
 .gitignore
