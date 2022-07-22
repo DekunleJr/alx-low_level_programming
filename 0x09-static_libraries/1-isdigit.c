@@ -9,7 +9,7 @@ int _isdigit(int c)
 {
 	int res;
 
-	if (_isdigit(c))
+	if (isdigit(c))
 		res = 1;
 	else
 		res = 0;
