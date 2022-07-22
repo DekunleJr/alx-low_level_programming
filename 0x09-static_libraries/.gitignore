@@ -1,3 +1,5 @@
 quote 
 main.c
-_putchar
+_putchar.c
+_putchar.o
+.gitignore
