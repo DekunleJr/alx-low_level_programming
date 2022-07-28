@@ -7,7 +7,7 @@ void *_calloc(unsigned int nmemb, unsigned int size);
 int *array_range(int min, int max);
 void *_realloc(void *ptr, unsigned int old_size, unsigned int new_size);
 void simple_print_buffer(char *buffer, unsigned int size);
-int main(int argc, char *argv[]);
+int main(void);
 char *_memset(char *s, char b, unsigned int n);
 int _putchar(char c);
 void errors(void);
