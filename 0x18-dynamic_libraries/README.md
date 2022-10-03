@@ -1,0 +1,1 @@
+C - Dynamic libraries Making use of; creation of new libraries gcc -Wall -fPIC -c *.c, creating position independent code, gcc -shared -o libdynamic.so *.o, initialized data section nm -D and compiling the main program and linking with the shared object library.
